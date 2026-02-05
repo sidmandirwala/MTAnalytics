@@ -130,20 +130,6 @@ SHAP values are used to interpret the ridership prediction model.
 
 ---
 
-## 🤖 Machine Learning
-
-- **Model:** XGBoost Regressor
-- **Target:** Hourly ridership per station
-- **Granularity:** Station-level, hour-by-hour
-
-### Feature Importance (SHAP)
-
-![SHAP Importance](visuals/shap_importance.png)
-
-Key drivers of ridership include **station location**, **borough**, and **hour of day**, emphasizing the importance of station-specific and time-aware scheduling.
-
----
-
 ## 🚀 Applications
 
 - Dynamic train frequency planning
