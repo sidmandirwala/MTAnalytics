@@ -130,19 +130,6 @@ SHAP values are used to interpret the ridership prediction model.
 
 ---
 
-### 8. Hourly Ridership Prediction (XGBoost)
-
-![Ridership Prediction](visuals/ridership_prediction.png)
-
-The trained XGBoost model predicts hourly ridership at the station level.
-
-**Key Results:**
-- Successfully captures **rush-hour and off-peak demand patterns**
-- Produces station-specific demand forecasts
-- Enables data-driven scheduling and capacity planning
-
----
-
 ## 🤖 Machine Learning
 
 - **Model:** XGBoost Regressor
